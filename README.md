@@ -1,8 +1,12 @@
+
+
 # 📰 S&P 500 Stock News Sentiment Tracker (Gemini + PyTorch)
 
 Analyze financial headlines using dual AI sentiment engines:  
 ✅ Hugging Face Transformers (local, fast, free)  
 🔮 Google Gemini 1.5 Flash (cloud, GenAI API, free tier supported)
+
+![Header Image](gemini_stocks_header.png)
 
 ---
 
