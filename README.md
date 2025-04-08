@@ -1,8 +1,3 @@
-You got it — here’s the **GitHub-ready `README.md` in full Markdown syntax**, properly structured with headings, code blocks, and links:
-
----
-
-```markdown
 # 📰 S&P 500 Stock News Sentiment Tracker (Gemini + PyTorch)
 
 Analyze financial headlines using dual AI sentiment engines:  
@@ -91,7 +86,7 @@ Each row of the output CSV includes:
 
 ## 🧠 Author
 
-Made with Python, AI, and ☕ by [Your Name]  
+Made with Python, AI, and ☕ by [Michael Adams]  
 📚 [Read the full Medium article](https://medium.com)  
 
 
