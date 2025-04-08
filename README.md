@@ -29,7 +29,7 @@ Analyze financial headlines using dual AI sentiment engines:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/sp500-sentiment-tracker.git
+git clone https://github.com/madams239/gemini_huggingface_stocks.git
 cd sp500-sentiment-tracker
 pip install -r requirements.txt
 ```
